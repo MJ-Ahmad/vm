@@ -8,8 +8,6 @@ It ensures that each video follows the \*\*technical specifications, content gui
 
 
 
-\---
-
 
 
 \## 📂 Project Structure
@@ -110,8 +108,6 @@ VideoMarketing/
 
 
 
-\---
-
 
 
 \## 🎯 Platform Specifications
@@ -143,8 +139,6 @@ VideoMarketing/
 | Testimonials        | 1–2 minutes      | 1920×1080        | MP4 | Customer trust-building |
 
 
-
-\---
 
 
 
@@ -218,8 +212,6 @@ VideoMarketing/
 
 
 
-\---
-
 
 
 \## ✅ Best Practices
@@ -238,8 +230,6 @@ VideoMarketing/
 
 
 
-\---
-
 
 
 \## 📌 Notes
@@ -253,8 +243,6 @@ VideoMarketing/
 \- Common assets (logos, intros, outros, subtitles) are centralized in `/CommonAssets/`.  
 
 
-
-\---
 
 
 
@@ -277,8 +265,6 @@ This project ensures that every video is:
 By following this structure, the team can produce \*\*professional, distribution-ready videos\*\* for all major digital marketing platforms.
 
 
-
-\---
 
 
 
