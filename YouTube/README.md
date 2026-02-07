@@ -1,4 +1,4 @@
-\# 🎬 YouTube Video Marketing Guide
+# 🎬 YouTube Video Marketing Guide
 
 
 
@@ -18,7 +18,7 @@ It is divided into two main categories:
 
 
 
-\## 📂 Folder Structure
+## 📂 Folder Structure
 
 
 
@@ -54,7 +54,7 @@ YouTube/
 
 
 
-\## ✅ Workflow
+## ✅ Workflow
 
 
 
@@ -72,7 +72,7 @@ YouTube/
 
 
 
-\## 📌 Notes
+## 📌 Notes
 
 
 
@@ -87,6 +87,7 @@ YouTube/
 
 
 \---
+
 
 
 

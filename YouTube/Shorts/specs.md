@@ -1,8 +1,8 @@
-\# 🎥 YouTube Shorts Video Specifications
+# 🎥 YouTube Shorts Video Specifications
 
 
 
-\## 🎯 Purpose
+## 🎯 Purpose
 
 Shorts are designed for \*\*quick engagement, trends, and viral reach\*\*.  
 
@@ -14,7 +14,7 @@ They are vertical, short, and optimized for mobile consumption.
 
 
 
-\## ⚙️ Technical Requirements
+## ⚙️ Technical Requirements
 
 \- \*\*Length:\*\* ≤ 60 seconds
 
@@ -32,7 +32,7 @@ They are vertical, short, and optimized for mobile consumption.
 
 
 
-\## ✅ Content Guidelines
+## ✅ Content Guidelines
 
 \- Focus on \*\*fast hooks\*\* (first 3 seconds).
 
@@ -48,7 +48,7 @@ They are vertical, short, and optimized for mobile consumption.
 
 
 
-\## 🛠️ Optimization Command (FFmpeg Example)
+## 🛠️ Optimization Command (FFmpeg Example)
 
 ```powershell
 
@@ -59,4 +59,5 @@ ffmpeg -i input.mp4 -vf "scale=1080:1920" -c:v libx264 -preset fast -crf 23 -c:a
 
 
 \---
+
 
